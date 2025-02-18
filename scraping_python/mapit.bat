@@ -1,0 +1,1 @@
+@py.exe C:\Users\aldyp\OneDrive\Desktop\BELAJAR\webscraping\scraping_pytthon\mapIt.py %*
